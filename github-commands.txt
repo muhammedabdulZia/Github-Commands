@@ -2,5 +2,23 @@ git init                       --> to initialize an empty repositry
 git status                     -->  check the status of repositry 
 git add (filename)             --> to add a untracked file to staged
 git rm --cached (filename)     --> to remove a file from staged to untracked file
-git commit -m "add a message"  --> to commite a file with a message in " " and it will be tracked 
-git restore (filename)         --> to restore/recover an deleted file
+git commit -m "add a message"  --> to commite a file with a message in " " and the file will be tracked 
+git restore (filename)         --> to restore/recover a deleted file
+histroy                        --> shows the histroy of commands
+
+ TOKEN CONCEPT
+Tokens in GitHub are a secure alternative to using your password for authenticating to GitHub when interacting with the GitHub API or the command line.
+
+Steps to create a token :-
+
+step1. click on profile
+step2. you will see a developer setting 
+step3. click on it 
+
+
+
+
+git remote --v                ---> to check URL in terminal
+git remote set-url origin     ---> to set an url ex:https://(........TOKEN ADDRESS.......)@github.com/muhammedabdulZia/Github-Commands.git (push)
+git push origin master        ---> to push your code or resource to github platform
+git pull origin master        ---> to pull or transfer the data to the vscode 
