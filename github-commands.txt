@@ -13,9 +13,10 @@ Steps to create a token :-
 
 step1. click on profile
 step2. you will see a developer setting 
-step3. click on it 
-
-
+step3. click on personal acces token (PAT)
+step4. select classic token 
+step5. click on generate token (name your token )
+step6. select repo and click on confirm token
 
 
 git remote --v                ---> to check URL in terminal
