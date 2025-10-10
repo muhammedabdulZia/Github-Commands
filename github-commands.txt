@@ -27,7 +27,7 @@ git remote set-url origin     ---> to set an url ex:https://(........TOKEN ADDRE
 git push origin master        ---> to push your code or resource to github platform
 git pull origin master        ---> to pull or transfer the data to the vscode 
 
-STEPS TO COPY GIT REPOSITROY
+STEPS TO COPY GIT REPOSITORY
 
 1.open terminal
 2. go to cd downloads or cd documents
