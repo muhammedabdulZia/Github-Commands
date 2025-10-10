@@ -1,0 +1,17 @@
+                                        What is branch in github
+Ans: A branch is an independent line of development It allows  developers to create workspace.Where they can make changes,
+                   experiment without affecting the primary version of the project 
+
+git status                    --> provide the status of an repository
+git branch                    --> show were on current branch 
+git checkout -B (branch name) --> to create a new branch or to switch
+git branch (branch name)      --> creating a new branch
+git switch                    --> switching from one branch to another
+git log                       ---> show information about latest commit,and author,date,time,day
+git log --oneline              --> show info about latest long in short form
+
+                                            What is git fetch 
+Ans: the git fetch command in git is used to download commits,files,and refernces (like brnach and tags) from a remote repository
+
+                                           What is git pull
+Ans: git pull is a Git command used to update a local repository with changes from a remote repository
