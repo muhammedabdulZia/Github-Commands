@@ -22,4 +22,4 @@ step6. select repo and click on confirm token
 git remote --v                ---> to check URL in terminal
 git remote set-url origin     ---> to set an url ex:https://(........TOKEN ADDRESS.......)@github.com/muhammedabdulZia/Github-Commands.git (push)
 git push origin master        ---> to push your code or resource to github platform
-git pull origin master        ---> to pull or transfer the data to the vscode 
+git pull origin master        ---> to pull or transfer the data to the vscode  status
