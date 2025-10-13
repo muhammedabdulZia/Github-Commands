@@ -15,3 +15,13 @@ Ans: the git fetch command in git is used to download commits,files,and refernce
 
                                            What is git pull
 Ans: git pull is a Git command used to update a local repository with changes from a remote repository
+
+
+HOW TO CREATE A PULL REQUEST 
+
+1.open github
+2.click on pull request 
+3.click on new pull request 
+4. you will see two block compare the changes with (main) and (branch) 
+5. and then click on create pull request
+6. commit a message before pull request
